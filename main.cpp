@@ -9,5 +9,6 @@ int main()
 	cout << "Goodbye" << endl;
 	cout << "Goodbye" << endl;
 	cout << "Goodbye" << endl;
+	cout << "BB" << endl;
 	return 0;
 } 
