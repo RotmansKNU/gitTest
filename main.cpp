@@ -11,5 +11,6 @@ int main()
 	cout << "Goodbye" << endl;
 	cout << "BB" << endl;
 	cout << "GG" << endl;
+	cout << "SS" << endl;
 	return 0;
 } 
