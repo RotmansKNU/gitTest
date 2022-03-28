@@ -17,5 +17,6 @@ int main()
 	cout << "SS" << endl;
 	cout << "SS" << endl;
 	cout << "RR" << endl;
+	cout << "RR" << endl;
 	return 0;
 } 
