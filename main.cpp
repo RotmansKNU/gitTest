@@ -14,6 +14,7 @@ int main()
 	cout << "GG" << endl;
 	cout << "EE" << endl;
 	cout << "SS" << endl;
+	cout << "SS" << endl;
 	cout << "RR" << endl;
 	return 0;
 } 
